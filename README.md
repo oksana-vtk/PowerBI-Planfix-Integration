@@ -73,7 +73,7 @@ visualizing it in Power BI without manual export/import steps.
 This application is deployed on a remote server and exposed over HTTPS so that Power BI can access it as a web API. 
 The endpoint is added to Power BI using Web connector. 
 
-## 🔒 Data Privacy Notice
+## 🔒 Data Privacy Notice 
 
 This report is provided for demonstration and viewing purposes only.
 All sensitive or personal data has been anonymized to ensure compliance with privacy standards.
