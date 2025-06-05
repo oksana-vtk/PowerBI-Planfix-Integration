@@ -1,6 +1,8 @@
 
 # 📊 Power BI Report with Auto-Updated Data from Planfix via a Custom-Built API
 
+Power BI report available [here](https://app.powerbi.com/view?r=eyJrIjoiMzk5MmIzZDMtOTFiNi00ZDg1LThmYTctMTU3ZDFiYmM4M2YxIiwidCI6ImIwYmYzYTRlLTBlMmMtNGQ5Ny1hMzUyLWY2MDY4MGFkYjZlMSIsImMiOjl9)
+
 The goal of this project is to build an automatically updating analytics dashboard in Power BI 
 for monitoring the performance of a Marketing campaign using the data which is managed and 
 continuously updated in `Planfix`.
@@ -70,23 +72,6 @@ visualizing it in Power BI without manual export/import steps.
 
 This application is deployed on a remote server and exposed over HTTPS so that Power BI can access it as a web API. 
 The endpoint is added to Power BI using Web connector.
-
-## Power BI Integration
-
-    In Power BI Desktop:
-
-        Choose Get Data → Web.
-
-        Enter the URL of the hosted API:
-        https://your-server.com/fetch-report
-
-    Load the data and use Power Query to transform it if needed.
-
-    Build visuals based on the automatically refreshed report data.
-
-## 📊 Power BI Report
-
-Power BI report available here: [View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzk5MmIzZDMtOTFiNi00ZDg1LThmYTctMTU3ZDFiYmM4M2YxIiwidCI6ImIwYmYzYTRlLTBlMmMtNGQ5Ny1hMzUyLWY2MDY4MGFkYjZlMSIsImMiOjl9)
 
 ## 🔒 Data Privacy Notice
 
