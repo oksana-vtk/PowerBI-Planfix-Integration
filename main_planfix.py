@@ -90,5 +90,3 @@ def fetch_report():
         return {"error": "Failed to fetch data"}, 500
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
