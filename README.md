@@ -1,7 +1,7 @@
 
 # 📊 Power BI Report with Auto-Updated Data from Planfix via a Custom-Built API
 
-Power BI report available [here](https://app.powerbi.com/view?r=eyJrIjoiMzk5MmIzZDMtOTFiNi00ZDg1LThmYTctMTU3ZDFiYmM4M2YxIiwidCI6ImIwYmYzYTRlLTBlMmMtNGQ5Ny1hMzUyLWY2MDY4MGFkYjZlMSIsImMiOjl9)
+Power BI report available [here...](https://app.powerbi.com/view?r=eyJrIjoiMzk5MmIzZDMtOTFiNi00ZDg1LThmYTctMTU3ZDFiYmM4M2YxIiwidCI6ImIwYmYzYTRlLTBlMmMtNGQ5Ny1hMzUyLWY2MDY4MGFkYjZlMSIsImMiOjl9)
 
 The goal of this project is to build an automatically updating analytics dashboard in Power BI 
 for monitoring the performance of a Marketing campaign using the data which is managed and 
